@@ -7,7 +7,7 @@ import time
 
 
 def test_reverter_texto_simples():
-    assert string_utils.reverter("hello") == "ERRADO"  # falha 1
+    assert string_utils.reverter("hello") == "olleh"
 
 
 def test_reverter_texto_vazio():
@@ -31,7 +31,7 @@ def test_capitalizar_palavras():
 
 
 def test_contar_palavras_normal():
-    assert string_utils.contar_palavras("uma frase simples") == 99  # falha 2
+    assert string_utils.contar_palavras("uma frase simples") == 3
 
 
 def test_contar_palavras_vazio():
