@@ -7,7 +7,7 @@ import time
 
 
 def test_reverter_texto_simples():
-    assert string_utils.reverter("hello") == "olleh"
+    assert string_utils.reverter("hello") == "ERRADO"  # falha intencional
 
 
 def test_reverter_texto_vazio():
