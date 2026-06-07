@@ -35,3 +35,30 @@ def test_contar_palavras_normal():
 
 def test_contar_palavras_vazio():
     assert string_utils.contar_palavras("") == 0
+
+def test_remover_duplicatas_lista():
+    assert string_utils.remover_duplicatas([1, 2, 2, 3, 1]) == [1, 2, 3]
+
+
+def test_remover_duplicatas_sem_duplicatas():
+    assert string_utils.remover_duplicatas([1, 2, 3]) == [1, 2, 3]
+
+
+def test_eh_anagrama_verdadeiro():
+    assert string_utils.eh_anagrama("listen", "silent") is True
+
+
+def test_eh_anagrama_falso():
+    assert string_utils.eh_anagrama("hello", "world") is False
+
+
+def test_truncar_texto_longo():
+    assert string_utils.truncar("Olá, mundo!", 5) == "Olá, ..."
+
+
+def test_truncar_texto_curto():
+    assert string_utils.truncar("Olá", 10) == "Olá"
+
+
+def test_contar_vogais_texto_vazio():
+    assert string_utils.contar_vogais("") == 0
