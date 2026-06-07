@@ -3,6 +3,7 @@
 Testes automatizados para o módulo string_utils.
 """
 import string_utils
+import time
 
 
 def test_reverter_texto_simples():
@@ -63,3 +64,9 @@ def test_truncar_texto_curto():
 
 def test_contar_vogais_texto_vazio():
     assert string_utils.contar_vogais("") == 0
+
+
+def test_operacao_lenta():
+       """Simula uma operação que demora — teste de impacto no tempo do pipeline."""
+       time.sleep(3)
+       assert string_utils.reverter("lento") == "otnel"
