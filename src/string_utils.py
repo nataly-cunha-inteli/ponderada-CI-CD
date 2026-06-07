@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Utilitários para manipulação de strings."""
+"""Utilitários para manipulação de strings.
+
+Primeiro script de função simples apenas para servir de utilitário para testar a pipeline de CI/CD.
+"""
 
 
 def reverter(texto):

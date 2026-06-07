@@ -15,5 +15,5 @@ htmlcov/
 test-results.xml
 test-meta.json
 
-# Variáveis de ambiente (nunca commitar)
+# Variáveis de ambiente
 .env

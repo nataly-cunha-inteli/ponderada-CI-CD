@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Testes automatizados para o módulo string_utils.
-Execução 1 — baseline: 8 testes, todos passando.
+É passado o valor para o parâmetro a cada chamada de função, por vezes valores incorretos para verificar a eficácia dos testes.
 """
 import string_utils
 

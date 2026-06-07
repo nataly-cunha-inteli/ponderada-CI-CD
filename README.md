@@ -18,15 +18,6 @@ pondCICD/
 └── PASSO_A_PASSO.md           ← guia completo de reprodução do experimento
 ```
 
-## Como reproduzir o experimento
-
-Consulte o arquivo **PASSO_A_PASSO.md** para instruções detalhadas sobre:
-
-1. Configuração do ambiente local
-2. Sequência dos 12 commits com suas variações
-3. Coleta de métricas via GitHub API
-4. Geração dos gráficos
-
 ## Execução rápida dos testes locais
 
 ```bash
