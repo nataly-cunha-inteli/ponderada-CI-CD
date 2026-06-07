@@ -11,6 +11,9 @@ __pycache__/
 .coverage
 htmlcov/
 
+# Ambiente virtual do Python
+.venv
+
 # Artefatos gerados pelo pytest no CI
 test-results.xml
 test-meta.json
