@@ -110,4 +110,3 @@ def test_truncar_sufixo_vazio():
 
 def test_truncar_tamanho_exato():
     assert string_utils.truncar("hello", 5) == "hello"
-
