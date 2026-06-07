@@ -67,6 +67,5 @@ def test_contar_vogais_texto_vazio():
 
 
 def test_operacao_lenta():
-       """Simula uma operação que demora — teste de impacto no tempo do pipeline."""
-       time.sleep(3)
-       assert string_utils.reverter("lento") == "otnel"
+    time.sleep(3)
+    assert string_utils.reverter("lento") == "otnel"
