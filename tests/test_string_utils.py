@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Testes automatizados para o módulo string_utils.
-É passado o valor para o parâmetro a cada chamada de função, por vezes valores incorretos para verificar a eficácia dos testes.
 """
 import string_utils
 
