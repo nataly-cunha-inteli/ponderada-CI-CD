@@ -76,7 +76,7 @@ def test_reverter_numero_como_string():
 
 
 def test_eh_palindromo_com_espacos():
-    frase = "AmanaplanacanalpanamaA".lower()
+    frase = "amanaplanacanalpanama"
     assert string_utils.eh_palindromo(frase) is True
 
 
