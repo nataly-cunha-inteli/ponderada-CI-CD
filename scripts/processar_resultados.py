@@ -12,6 +12,7 @@ ARQUIVO_META = "test-meta.json"
 
 total = 0
 falhas = 0
+tempo_medio_testes = 0.0
 
 if os.path.exists(ARQUIVO_XML):
     tree = ET.parse(ARQUIVO_XML)
@@ -20,10 +21,16 @@ if os.path.exists(ARQUIVO_XML):
     if suite is not None:
         total = int(suite.get("tests", 0))
         falhas = int(suite.get("failures", 0)) + int(suite.get("errors", 0))
+        tempo_total = float(suite.get("time", 0.0))
+        tempo_medio_testes = round(tempo_total / total, 4) if total > 0 else 0.0
 
-meta = {"total_testes": total, "falhas_testes": falhas}
+meta = {
+    "total_testes": total,
+    "falhas_testes": falhas,
+    "tempo_medio_testes": tempo_medio_testes,
+}
 
 with open(ARQUIVO_META, "w", encoding="utf-8") as arquivo:
     json.dump(meta, arquivo, ensure_ascii=False)
 
-print(f"Total de testes: {total} | Falhas: {falhas}")
+print(f"Total de testes: {total} | Falhas: {falhas} | Tempo medio: {tempo_medio_testes}s")
