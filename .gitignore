@@ -1,8 +1,3 @@
-# Dados e gráficos gerados pelos scripts
-data/*.csv
-data/*.json
-graphs/*.png
-
 # Cache e artefatos do Python
 __pycache__/
 *.pyc

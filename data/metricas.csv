@@ -1,0 +1,307 @@
+id_execucao,sha_commit,mensagem_commit,status,duracao_workflow,lead_time,nome_job,duracao_job,nome_etapa,duracao_etapa,total_testes,falhas_testes,tempo_medio_testes,timestamp
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Set up job,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Baixar código-fonte,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Configurar Python 3.11,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Instalar flake8,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Executar análise estática,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Post Configurar Python 3.11,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Post Baixar código-fonte,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Análise Estática (Lint),7.0,Complete job,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Set up job,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Baixar código-fonte,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Configurar Python 3.11,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Instalar dependências de desenvolvimento,2.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Executar testes com pytest,4.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Processar resultados dos testes,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Publicar artefatos dos testes,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Post Configurar Python 3.11,1.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Post Baixar código-fonte,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103647717,6a56cce7,"fix: corrigir as duas falhas intencionais, pipeline estabilizado",success,28.0,28.0,Executar Testes Automatizados,12.0,Complete job,0.0,26,0,0.1538,2026-06-07T20:17:39Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Set up job,1.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Baixar código-fonte,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Configurar Python 3.11,1.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Instalar flake8,1.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Executar análise estática,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Post Configurar Python 3.11,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Post Baixar código-fonte,1.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Análise Estática (Lint),6.0,Complete job,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Set up job,1.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Baixar código-fonte,1.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Configurar Python 3.11,2.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Instalar dependências de desenvolvimento,3.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Executar testes com pytest,4.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Processar resultados dos testes,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Publicar artefatos dos testes,1.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Post Configurar Python 3.11,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Post Baixar código-fonte,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103610115,5c414630,"fix: corrigir as duas falhas intencionais, pipeline  estabilizado",failure,27.0,27.0,Executar Testes Automatizados,14.0,Complete job,0.0,26,1,0.1538,2026-06-07T20:16:00Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Set up job,1.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Baixar código-fonte,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Configurar Python 3.11,3.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Instalar flake8,1.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Executar análise estática,1.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Post Configurar Python 3.11,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Post Baixar código-fonte,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Análise Estática (Lint),9.0,Complete job,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Set up job,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Baixar código-fonte,1.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Configurar Python 3.11,1.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Instalar dependências de desenvolvimento,2.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Executar testes com pytest,4.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Processar resultados dos testes,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Publicar artefatos dos testes,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Post Configurar Python 3.11,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Post Baixar código-fonte,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103573958,5eca4ad5,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,29.0,29.0,Executar Testes Automatizados,11.0,Complete job,0.0,26,3,0.1538,2026-06-07T20:14:31Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Set up job,1.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Baixar código-fonte,0.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Configurar Python 3.11,3.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Instalar flake8,2.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Executar análise estática,0.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Post Baixar código-fonte,1.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Análise Estática (Lint),9.0,Complete job,0.0,0,0,0.0,2026-06-07T20:13:10Z
+27103542292,3f005282,test: introduzir duas falhas intencionais para analise de multiplos erros,failure,13.0,13.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T20:13:10Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Set up job,1.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Baixar código-fonte,1.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Configurar Python 3.11,1.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Instalar flake8,1.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Executar análise estática,1.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Post Baixar código-fonte,0.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Análise Estática (Lint),9.0,Complete job,0.0,0,0,0.0,2026-06-07T20:12:09Z
+27103518601,0c561042,"test: adicionar 10 novos testes, totalizando 26",failure,13.0,13.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T20:12:09Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Set up job,2.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Baixar código-fonte,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Configurar Python 3.11,3.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Instalar flake8,1.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Executar análise estática,1.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Post Configurar Python 3.11,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Post Baixar código-fonte,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Análise Estática (Lint),9.0,Complete job,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Set up job,1.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Baixar código-fonte,1.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Configurar Python 3.11,1.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Instalar dependências de desenvolvimento,2.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Executar testes com pytest,4.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Processar resultados dos testes,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Publicar artefatos dos testes,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Post Configurar Python 3.11,1.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Post Baixar código-fonte,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103475794,a71c1dc6,ci: restaurar jobs sequenciais para comparacao com execucao paralela,success,31.0,31.0,Executar Testes Automatizados,12.0,Complete job,0.0,16,0,0.25,2026-06-07T20:10:18Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Set up job,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Configurar Python 3.11,1.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Instalar flake8,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Executar análise estática,1.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Post Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Análise Estática (Lint),5.0,Complete job,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Set up job,1.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Configurar Python 3.11,2.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Instalar dependências de desenvolvimento,2.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Executar testes com pytest,3.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Processar resultados dos testes,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Publicar artefatos dos testes,1.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Post Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103448062,23efa2cb,ci: configurar jobs em paralelo (lint e test simultaneos),success,16.0,16.0,Executar Testes Automatizados,12.0,Complete job,0.0,16,0,0.1875,2026-06-07T20:09:05Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Set up job,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Configurar Python 3.11,1.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Instalar flake8,1.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Executar análise estática,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Post Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Análise Estática (Lint),6.0,Complete job,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Set up job,1.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Configurar Python 3.11,1.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Instalar dependências de desenvolvimento,2.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Executar testes com pytest,3.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Processar resultados dos testes,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Publicar artefatos dos testes,1.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Post Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103411211,d5e26ad2,ci: reabilitar cache do pip para comparacao de desempenho,success,23.0,23.0,Executar Testes Automatizados,10.0,Complete job,0.0,16,0,0.1875,2026-06-07T20:07:28Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Set up job,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Baixar código-fonte,1.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Configurar Python 3.11,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Instalar flake8,1.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Executar análise estática,1.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Post Configurar Python 3.11,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Post Baixar código-fonte,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Análise Estática (Lint),6.0,Complete job,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Set up job,1.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Baixar código-fonte,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Configurar Python 3.11,1.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Instalar dependências de desenvolvimento,4.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Executar testes com pytest,4.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Processar resultados dos testes,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Publicar artefatos dos testes,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Post Configurar Python 3.11,1.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Post Baixar código-fonte,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103363467,b1b70874,ci: desabilitar cache do pip para medir impacto no tempo de instalacao,success,25.0,25.0,Executar Testes Automatizados,13.0,Complete job,0.0,16,0,0.25,2026-06-07T20:05:23Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Set up job,1.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Configurar Python 3.11,2.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Instalar flake8,0.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Executar análise estática,1.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Post Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Análise Estática (Lint),9.0,Complete job,0.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Set up job,1.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Configurar Python 3.11,2.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Instalar dependências de desenvolvimento,2.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Executar testes com pytest,3.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Processar resultados dos testes,0.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Publicar artefatos dos testes,1.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Post Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103310371,40163964,fix: corrigir escrita no teste de reversao,success,30.0,30.0,Executar Testes Automatizados,14.0,Complete job,0.0,16,0,0.1875,2026-06-07T20:03:12Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Set up job,1.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Baixar código-fonte,0.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Configurar Python 3.11,1.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Instalar flake8,1.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Executar análise estática,0.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Post Baixar código-fonte,0.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Análise Estática (Lint),6.0,Complete job,0.0,0,0,0.0,2026-06-07T20:01:43Z
+27103268117,724a2f1b,fix: corrigir falha intencional no teste de reversao,failure,10.0,10.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T20:01:43Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Set up job,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Baixar código-fonte,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Configurar Python 3.11,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Instalar flake8,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Executar análise estática,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Post Configurar Python 3.11,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Post Baixar código-fonte,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Análise Estática (Lint),9.0,Complete job,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Set up job,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Baixar código-fonte,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Configurar Python 3.11,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Instalar dependências de desenvolvimento,2.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Executar testes com pytest,3.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Processar resultados dos testes,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Publicar artefatos dos testes,1.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Post Configurar Python 3.11,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Post Baixar código-fonte,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103214582,06585b48,test: introduzir falha intencional no teste de reversao,failure,26.0,26.0,Executar Testes Automatizados,10.0,Complete job,0.0,16,1,0.1875,2026-06-07T19:59:46Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Set up job,1.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Configurar Python 3.11,2.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Instalar flake8,1.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Executar análise estática,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Post Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Análise Estática (Lint),7.0,Complete job,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Set up job,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Baixar código-fonte,1.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Configurar Python 3.11,1.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Instalar dependências de desenvolvimento,2.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Executar testes com pytest,3.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Processar resultados dos testes,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Publicar artefatos dos testes,1.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Post Configurar Python 3.11,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Post Baixar código-fonte,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103162148,80f0dae1,fix: corrigir indentacao do teste lento,success,24.0,24.0,Executar Testes Automatizados,10.0,Complete job,0.0,16,0,0.1875,2026-06-07T19:57:30Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Set up job,1.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Baixar código-fonte,1.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Configurar Python 3.11,2.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Instalar flake8,1.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Executar análise estática,0.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Post Baixar código-fonte,1.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Análise Estática (Lint),8.0,Complete job,0.0,0,0,0.0,2026-06-07T19:51:33Z
+27103023216,1091f39b,test: adicionar teste lento (intencional) com sleep de 3 segundos,failure,11.0,11.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T19:51:33Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Set up job,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Baixar código-fonte,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Configurar Python 3.11,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Instalar flake8,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Executar análise estática,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Post Configurar Python 3.11,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Post Baixar código-fonte,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Análise Estática (Lint),5.0,Complete job,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Set up job,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Baixar código-fonte,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Configurar Python 3.11,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Instalar dependências de desenvolvimento,2.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Executar testes com pytest,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Processar resultados dos testes,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Publicar artefatos dos testes,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Post Configurar Python 3.11,1.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Post Baixar código-fonte,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102505722,f6741c37,chore: adicionar newline ao final dos testes,success,21.0,21.0,Executar Testes Automatizados,9.0,Complete job,0.0,15,0,0.0667,2026-06-07T19:29:45Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Set up job,0.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Baixar código-fonte,1.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Configurar Python 3.11,2.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Instalar flake8,1.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Executar análise estática,0.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Post Baixar código-fonte,0.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Análise Estática (Lint),8.0,Complete job,0.0,0,0,0.0,2026-06-07T19:25:02Z
+27102397278,c559c307,chore: adicionar newline ao final dos testes,failure,14.0,14.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T19:25:02Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Set up job,1.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Baixar código-fonte,0.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Configurar Python 3.11,2.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Instalar flake8,1.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Executar análise estática,0.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Post Baixar código-fonte,0.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Análise Estática (Lint),7.0,Complete job,0.0,0,0,0.0,2026-06-07T19:23:30Z
+27102362767,dd0ab225,"test: adicionar 7 testes novos, totalizando 15",failure,12.0,12.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T19:23:30Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Set up job,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Baixar código-fonte,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Configurar Python 3.11,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Instalar flake8,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Executar análise estática,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Post Configurar Python 3.11,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Post Baixar código-fonte,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Análise Estática (Lint),6.0,Complete job,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Set up job,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Baixar código-fonte,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Configurar Python 3.11,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Instalar dependências de desenvolvimento,3.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Executar testes com pytest,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Processar resultados dos testes,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Publicar artefatos dos testes,1.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Post Configurar Python 3.11,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Post Baixar código-fonte,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27102189765,fa991a8c,chore: diminui tamanho do docstring do arquivo de teste,success,23.0,23.0,Executar Testes Automatizados,11.0,Complete job,0.0,8,0,0.0,2026-06-07T19:16:04Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Set up job,1.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Baixar código-fonte,1.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Configurar Python 3.11,1.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Instalar flake8,2.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Executar análise estática,0.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Post Baixar código-fonte,0.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Análise Estática (Lint),7.0,Complete job,0.0,0,0,0.0,2026-06-07T19:04:52Z
+27101927567,6fe3319b,chore: add venv to gitignore,failure,11.0,11.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T19:04:52Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Set up job,1.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Baixar código-fonte,1.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Configurar Python 3.11,1.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Instalar flake8,1.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Executar análise estática,1.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Post Configurar Python 3.11,0.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Post Baixar código-fonte,0.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Análise Estática (Lint),8.0,Complete job,0.0,0,0,0.0,2026-06-07T15:40:02Z
+27097065704,8bd77ff2,docs: ajustes de documentação e comentários,failure,12.0,12.0,Executar Testes Automatizados,0.0,,,0,0,0.0,2026-06-07T15:40:02Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Set up job,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Baixar código-fonte,0.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Configurar Python 3.11,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Instalar flake8,2.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Executar análise estática,0.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Post Configurar Python 3.11,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Post Baixar código-fonte,0.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Análise Estática (Lint),8.0,Complete job,0.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Set up job,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Baixar código-fonte,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Configurar Python 3.11,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Instalar dependências de desenvolvimento,3.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Executar testes com pytest,0.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Processar resultados dos testes,0.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Publicar artefatos dos testes,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Post Configurar Python 3.11,1.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Post Baixar código-fonte,0.0,8,0,0.0,2026-06-06T20:48:42Z
+27073510466,12949688,feat: estrutura inicial do pipeline CI/CD,success,26.0,26.0,Executar Testes Automatizados,10.0,Complete job,0.0,8,0,0.0,2026-06-06T20:48:42Z
